@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="24 Horas HD" group="Noticias" logo="http://logos.iptv.wtf/chile/24horas.png", 24 Horas HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/2109.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: Mega Full HD" group="Chile" logo="http://logos.iptv.wtf/chile/mega.png" country="cl", Mega Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/1.ts
+#EXTINF:0 type="stream" channelId="-1" name="CNN Chile HD" group="Noticias" logo="http://logos.iptv.wtf/chile/cnnchile.png", CNN Chile HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/7464.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: TVN Full HD" group="Chile" logo="http://logos.iptv.wtf/chile/tvn.png" country="cl", TVN Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/7.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: Canal 13 Full HD" group="Chile" logo="http://logos.iptv.wtf/chile/canal13.png" country="cl", Canal 13 Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: CHV Full HD" group="Chile" logo="http://logos.iptv.wtf/chile/chv.png" country="cl", CHV Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/5.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: La Red Full HD" group="Chile" logo="http://logos.iptv.wtf/chile/lared.png" country="cl", La Red Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9.ts
+#EXTINF:0 type="stream" channelId="1972" name="CNN en Español" group="Noticias", CNN en Español
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/7471.ts
+#EXTINF:0 type="stream" channelId="-1" name="RT Noticias HD" group="Noticias", RT Noticias HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/5913.ts
+#EXTINF:0 type="stream" channelId="-1" name="TeleSUR HD" group="Noticias", TeleSUR HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/2129.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: Mega Plus Full HD" group="Chile" logo="http://logos.iptv.wtf/chile/megaplus.png" country="cl", Mega Plus Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/1644.ts
+#EXTINF:0 type="stream" channelId="-1" name="AR: A24 Full HD" group="Argentina" country="ar", A24 Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/1518.ts
+#EXTINF:0 type="stream" channelId="4773" name="CO: Caracol" group="Colombia" country="co", Caracol
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/1567.ts
+#EXTINF:0 type="stream" channelId="-1" name="CO: Caracol HD2" group="Colombia" country="co", Caracol HD2
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/1550.ts
+#EXTINF:0 type="stream" channelId="3783" name="CO: RCN" group="Colombia" country="co", RCN
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/1569.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: TV + Full HD *" group="Chile" logo="http://logos.iptv.wtf/chile/ucv.png" country="cl", TV + Full HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9759.ts
+#EXTINF:0 type="stream" channelId="2567" name="CL: TV Senado" group="Chile" logo="http://logos.iptv.wtf/chile/tvsenado.png" country="cl", TV Senado
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/8725.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: TV Educa Chile Full HD" group="Chile" country="cl", TV Educa Chile Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/10500.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: El Gourmet HD" group="Chile" logo="http://logos.iptv.wtf/culturales/elgourmet.png" country="cl" catchup-days="30", El Gourmet HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9106.ts
+#EXTINF:0 type="stream" channelId="1720" name="CL: Food Network HD" group="Chile" logo="http://logos.iptv.wtf/culturales/foodnetwork.png" country="cl" catchup-days="30", Food Network HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9105.ts
+#EXTINF:0 type="stream" channelId="3330" name="Boomerang HD" group="Infantiles" logo="http://logos.iptv.wtf/infantiles/boomerang.png" catchup-days="30", Boomerang HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/245.ts
+#EXTINF:0 type="stream" channelId="2639" name="CL: Tooncast" group="Chile" logo="http://logos.iptv.wtf/infantiles/tooncast.png" country="cl", Tooncast
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9030.ts
+#EXTINF:0 type="stream" channelId="2719" name="Cartoon Network HD" group="Infantiles" logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png" catchup-days="30", Cartoon Network HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9529.ts
+#EXTINF:0 type="stream" channelId="2837" name="Discovery Kids HD" group="Infantiles" logo="http://logos.iptv.wtf/infantiles/discoverykids.png" catchup-days="30", Discovery Kids HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/124.ts
+#EXTINF:0 type="stream" channelId="3778" name="Natgeo Kids" group="Infantiles" logo="http://logos.iptv.wtf/infantiles/natgeokids.png" catchup-days="30", Natgeo Kids
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3344.ts
+#EXTINF:0 type="stream" channelId="-1" name="Nick 2 Full HD" group="Infantiles" logo="http://logos.iptv.wtf/infantiles/nick2.png" catchup-days="30", Nick 2 Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/96.ts
+#EXTINF:0 type="stream" channelId="2707" name="Nick HD" group="Infantiles" logo="http://logos.iptv.wtf/infantiles/nick.png" catchup-days="30", Nick HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/136.ts
+#EXTINF:0 type="stream" channelId="2710" name="Nick Jr HD" group="Infantiles" logo="http://logos.iptv.wtf/infantiles/nickjr.png" catchup-days="30", Nick Jr HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/6038.ts
+#EXTINF:0 type="stream" channelId="41" name="Nick" group="Infantiles" logo="http://logos.iptv.wtf/infantiles/nick.png" catchup-days="30", Nick
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/95.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: Disney Channel Full HD" group="Chile" logo="http://logos.iptv.wtf/infantiles/disneychannel.png" country="cl" catchup-days="30", Disney Channel Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9032.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: Disney Jr HD" group="Chile" logo="http://logos.iptv.wtf/infantiles/disneyjr.png" country="cl" catchup-days="30", Disney Jr HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/8986.ts
+#EXTINF:0 type="stream" channelId="2258" name="CL: Disney XD HD" group="Chile" logo="http://logos.iptv.wtf/infantiles/disneyxd.png" country="cl" catchup-days="30", Disney XD HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9031.ts
+#EXTINF:0 type="stream" channelId="-1" name="Animal Planet Full HD" group="Culturales" logo="http://logos.iptv.wtf/culturales/animalplanet.png" catchup-days="30", Animal Planet Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/8887.ts
+#EXTINF:0 type="stream" channelId="341" name="Discovery Channel HD" group="Culturales" logo="http://logos.iptv.wtf/culturales/discovery.png" catchup-days="30", Discovery Channel HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/123.ts
+#EXTINF:0 type="stream" channelId="-1" name="Discovery Channel HD *" group="Culturales" logo="http://logos.iptv.wtf/culturales/discovery.png" catchup-days="30", Discovery Channel HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/267.ts
+#EXTINF:0 type="stream" channelId="2724" name="Discovery Home and Health HD" group="Culturales" logo="http://logos.iptv.wtf/culturales/discoveryhh.png" catchup-days="30", Discovery Home and Health HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/119.ts
+#EXTINF:0 type="stream" channelId="2558" name="Discovery Theater HD" group="Culturales" logo="http://logos.iptv.wtf/culturales/discoverytheater.png" catchup-days="30", Discovery Theater HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/118.ts
+#EXTINF:0 type="stream" channelId="-1" name="Discovery TLC HD *" group="Culturales" logo="http://logos.iptv.wtf/culturales/discoverytlc.png" catchup-days="30", Discovery TLC HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3314.ts
+#EXTINF:0 type="stream" channelId="-1" name="Discovery Turbo Full HD" group="Culturales" logo="http://logos.iptv.wtf/culturales/discoveryturbo.png" catchup-days="30", Discovery Turbo Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/268.ts
+#EXTINF:0 type="stream" channelId="-1" name="Discovery World HD *" group="Culturales" logo="http://logos.iptv.wtf/culturales/discoveryworld.png" catchup-days="30", Discovery World HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3334.ts
+#EXTINF:0 type="stream" channelId="-1" name="H2 Full HD" group="Culturales" logo="http://logos.iptv.wtf/culturales/history2.png" catchup-days="30", H2 Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/8866.ts
+#EXTINF:0 type="stream" channelId="1456" name="History Channel HD" group="Culturales" logo="http://logos.iptv.wtf/culturales/history.png" catchup-days="30", History Channel HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9530.ts
+#EXTINF:0 type="stream" channelId="-1" name="ID HD *" group="Culturales" logo="http://logos.iptv.wtf/culturales/id.png" catchup-days="30", ID HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3368.ts
+#EXTINF:0 type="stream" channelId="207" name="NatGeo HD" group="Culturales" logo="http://logos.iptv.wtf/culturales/natgeo.png" catchup-days="30", NatGeo HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/8289.ts
+#EXTINF:0 type="stream" channelId="206" name="Natgeo Wild HD" group="Culturales" logo="http://logos.iptv.wtf/culturales/natgeowild.png" catchup-days="30", Natgeo Wild HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9532.ts
+#EXTINF:0 type="stream" channelId="58" name="Discovery Science SD" group="Culturales" logo="http://logos.iptv.wtf/culturales/discoveryscience.png" catchup-days="30", Discovery Science SD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/6025.ts
+#EXTINF:0 type="stream" channelId="-1" name="History Channel HD *" group="Culturales" logo="http://logos.iptv.wtf/culturales/history.png" catchup-days="30", History Channel HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/5893.ts
+#EXTINF:0 type="stream" channelId="-1" name="Arirang Full HD" group="Internacionales" logo="http://img.arirang.com/images/index/arirang.png" catchup-days="30", Arirang Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/8656.ts
+#EXTINF:0 type="stream" channelId="3722" name="Antena 3 Internacional" group="Internacionales" logo="http://logos.iptv.wtf/entretenimiento/antena3.png" catchup-days="30", Antena 3 Internacional
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/8248.ts
+#EXTINF:0 type="stream" channelId="-1" name="CO: Caracol *" group="Colombia" country="co" catchup-days="30", Caracol *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/7096.ts
+#EXTINF:0 type="stream" channelId="-1" name="A&E Full HD *" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/ae.png" catchup-days="30", A&E Full HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3369.ts
+#EXTINF:0 type="stream" channelId="2503" name="A&E HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/ae.png" catchup-days="30", A&E HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/126.ts
+#EXTINF:0 type="stream" channelId="-1" name="AMC Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/amc.png" catchup-days="30", AMC Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9523.ts
+#EXTINF:0 type="stream" channelId="-1" name="AMC HD *" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/amc.png" catchup-days="30", AMC HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3382.ts
+#EXTINF:0 type="stream" channelId="-1" name="AXN Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/axn.png" catchup-days="30", AXN Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/103.ts
+#EXTINF:0 type="stream" channelId="-1" name="AXN HD *" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/axn.png" catchup-days="30", AXN HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/234.ts
+#EXTINF:0 type="stream" channelId="-1" name="Azteca 7 Full HD" group="Entretenimiento" catchup-days="30", Azteca 7 Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/247.ts
+#EXTINF:0 type="stream" channelId="-1" name="Azteca Uno Full HD" group="Entretenimiento" catchup-days="30", Azteca Uno Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/261.ts
+#EXTINF:0 type="stream" channelId="-1" name="Cinecanal Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/cinecanal.png" catchup-days="30", Cinecanal Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/107.ts
+#EXTINF:0 type="stream" channelId="-1" name="Cinemax Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/cinemax.png" catchup-days="30", Cinemax Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/260.ts
+#EXTINF:0 type="stream" channelId="-1" name="Comedy Central Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/comedycentral.png" catchup-days="30", Comedy Central Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/108.ts
+#EXTINF:0 type="stream" channelId="-1" name="E! Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/e.png" catchup-days="30", E! Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/236.ts
+#EXTINF:0 type="stream" channelId="-1" name="Fox Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/fox.png" catchup-days="30", Fox Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/89.ts
+#EXTINF:0 type="stream" channelId="-1" name="Fox Life Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/foxlife.png" catchup-days="30", Fox Life Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/91.ts
+#EXTINF:0 type="stream" channelId="-1" name="Fox Life HD *" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/foxlife.png" catchup-days="30", Fox Life HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3351.ts
+#EXTINF:0 type="stream" channelId="-1" name="Fox Premium Action HD *" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/foxpremiumaction.png" catchup-days="30", Fox Premium Action HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/250.ts
+#EXTINF:0 type="stream" channelId="-1" name="Fox Premium Cinema Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/foxpremiumcinema.png" catchup-days="30", Fox Premium Cinema Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/73.ts
+#EXTINF:0 type="stream" channelId="-1" name="Fox Premium Classics Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/foxpremiuclassics.png" catchup-days="30", Fox Premium Classics Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/75.ts
+#EXTINF:0 type="stream" channelId="-1" name="Fox Premium Comedy Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/foxpremiucomedy.png" catchup-days="30", Fox Premium Comedy Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/77.ts
+#EXTINF:0 type="stream" channelId="-1" name="Fox Premium Family Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/foxpremiumfamily.png" catchup-days="30", Fox Premium Family Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/79.ts
+#EXTINF:0 type="stream" channelId="-1" name="Fox Premium Movies Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/foxpremiummovies.png" catchup-days="30", Fox Premium Movies Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/81.ts
+#EXTINF:0 type="stream" channelId="-1" name="Fox Premium Series Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/foxpremiumseries.png" catchup-days="30", Fox Premium Series Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/83.ts
+#EXTINF:0 type="stream" channelId="-1" name="FX HD *" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/fxhd.png" catchup-days="30", FX HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/235.ts
+#EXTINF:0 type="stream" channelId="1304" name="FX HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/fxhd.png" catchup-days="30", FX HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/114.ts
+#EXTINF:0 type="stream" channelId="-1" name="FXM Full HD" group="Entretenimiento" catchup-days="30", FXM Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9527.ts
+#EXTINF:0 type="stream" channelId="-1" name="Golden Plus Full HD" group="Entretenimiento" catchup-days="30", Golden Plus Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3313.ts
+#EXTINF:0 type="stream" channelId="-1" name="Golden Plus HD" group="Entretenimiento" catchup-days="30", Golden Plus HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3358.ts
+#EXTINF:0 type="stream" channelId="-1" name="HBO 2 Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/hbo2.png" catchup-days="30", HBO 2 Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/60.ts
+#EXTINF:0 type="stream" channelId="-1" name="HBO Family Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/hbofamily.png" catchup-days="30", HBO Family Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/62.ts
+#EXTINF:0 type="stream" channelId="-1" name="HBO Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/hbo.png" catchup-days="30", HBO Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/59.ts
+#EXTINF:0 type="stream" channelId="2725" name="HBO Mundi" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/hbomundi.png" catchup-days="30", HBO Mundi
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/6011.ts
+#EXTINF:0 type="stream" channelId="-1" name="HBO Plus Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/hboplus.png" catchup-days="30", HBO Plus Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/61.ts
+#EXTINF:0 type="stream" channelId="-1" name="HBO Xtreme HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/hboxtreme.png" catchup-days="30", HBO Xtreme HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/5900.ts
+#EXTINF:0 type="stream" channelId="-1" name="Lifetime Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/lifetime.png" catchup-days="30", Lifetime Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/262.ts
+#EXTINF:0 type="stream" channelId="-1" name="Paramount Full HD" group="Entretenimiento" catchup-days="30", Paramount Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3345.ts
+#EXTINF:0 type="stream" channelId="-1" name="Space Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/space.png" catchup-days="30", Space Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/98.ts
+#EXTINF:0 type="stream" channelId="-1" name="Space HD *" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/space.png" catchup-days="30", Space HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/255.ts
+#EXTINF:0 type="stream" channelId="-1" name="Studio Universal Full HD" group="Entretenimiento" catchup-days="30", Studio Universal Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/254.ts
+#EXTINF:0 type="stream" channelId="-1" name="TNT HD *" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/tnt.png" catchup-days="30", TNT HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3371.ts
+#EXTINF:0 type="stream" channelId="-1" name="TNT Series Full HD" group="Entretenimiento" logo="http://logos.iptv.wtf/entretenimiento/tntserieshd.png" catchup-days="30", TNT Series Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/94.ts
+#EXTINF:0 type="stream" channelId="-1" name="Tru TV Full HD" group="Entretenimiento" catchup-days="30", Tru TV Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3320.ts
+#EXTINF:0 type="stream" channelId="-1" name="Universal Channel Full HD" group="Entretenimiento" catchup-days="30", Universal Channel Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3335.ts
+#EXTINF:0 type="stream" channelId="-1" name="Warner Channel Full HD" group="Entretenimiento" catchup-days="30", Warner Channel Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/3375.ts
+#EXTINF:0 type="stream" channelId="-1" name="Warner Channel HD *" group="Entretenimiento" catchup-days="30", Warner Channel HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/5943.ts
+#EXTINF:0 type="stream" channelId="-1" name="Golden Premier Full HD" group="Entretenimiento" catchup-days="30", Golden Premier Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/5887.ts
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports Ñ HD *" group="Deportes" logo="http://logos.iptv.wtf/deportes/beinsportsn.png" catchup-days="30", Bein Sports Ñ HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/6814.ts
+#EXTINF:0 type="stream" channelId="200" name="CDF Básico" group="Deportes" logo="http://logos.iptv.wtf/deportes/cdfb.png" catchup-days="30", CDF Básico
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/6816.ts
+#EXTINF:0 type="stream" channelId="-1" name="CDF Full HD *" group="Deportes" logo="http://logos.iptv.wtf/deportes/cdfhd.png" catchup-days="30", CDF Full HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/18.ts
+#EXTINF:0 type="stream" channelId="3746" name="CL: ESPN 2 HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/espn2hd.png" country="cl" catchup-days="30", ESPN 2 HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/32.ts
+#EXTINF:0 type="stream" channelId="357" name="CL: ESPN 3 HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/espn3hd.png" country="cl" catchup-days="30", ESPN 3 HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/33.ts
+#EXTINF:0 type="stream" channelId="1263" name="CL: ESPN HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/espnhd.png" country="cl" catchup-days="30", ESPN HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/31.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: ESPN Plus HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/espnmas.png" country="cl" catchup-days="30", ESPN Plus HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/7473.ts
+#EXTINF:0 type="stream" channelId="1328" name="CL: Fox Sports" group="Deportes" logo="http://logos.iptv.wtf/deportes/foxsports.png" country="cl" catchup-days="30", Fox Sports
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9672.ts
+#EXTINF:0 type="stream" channelId="1329" name="CL: Fox Sports 1" group="Deportes" logo="http://logos.iptv.wtf/deportes/foxsports1.png" country="cl" catchup-days="30", Fox Sports 1
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9673.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: Fox Sports 1 Full HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/foxsports1hd.png" country="cl" catchup-days="30", Fox Sports 1 Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/21.ts
+#EXTINF:0 type="stream" channelId="170" name="CL: Fox Sports 2" group="Deportes" logo="http://logos.iptv.wtf/deportes/foxsports2.png" country="cl" catchup-days="30", Fox Sports 2
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9674.ts
+#EXTINF:0 type="stream" channelId="-1" name="CL: Fox Sports 3 Full HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/foxsports3hd.png" country="cl" catchup-days="30", Fox Sports 3 Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/25.ts
+#EXTINF:0 type="stream" channelId="2891" name="CL: Fox Sports HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/foxsports.png" country="cl" catchup-days="30", Fox Sports HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/20.ts
+#EXTINF:0 type="stream" channelId="-1" name="DirecTV Sports Full HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/directvsports.png" catchup-days="30", DirecTV Sports Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/38.ts
+#EXTINF:0 type="stream" channelId="-1" name="DirecTV Sports 2 Full HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/directvsports2.png" catchup-days="30", DirecTV Sports 2 Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/41.ts
+#EXTINF:0 type="stream" channelId="-1" name="Directv Sports Argentina Full HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/directvsports.png" catchup-days="30", Directv Sports Argentina Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9693.ts
+#EXTINF:0 type="stream" channelId="-1" name="Directv Sports Eventos 2 HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/directvsports.png" catchup-days="30", Directv Sports Eventos 2 HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9725.ts
+#EXTINF:0 type="stream" channelId="-1" name="DirecTV Sports Plus HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/directvsportsplus.png" catchup-days="30", DirecTV Sports Plus HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/44.ts
+#EXTINF:0 type="stream" channelId="-1" name="Fox Sports Premium Full HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/foxsportspremium.png" catchup-days="30", Fox Sports Premium Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9679.ts
+#EXTINF:0 type="stream" channelId="-1" name="TNT Sports HD *" group="Deportes" logo="http://logos.iptv.wtf/deportes/tntsports.png" catchup-days="30", TNT Sports HD *
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/9486.ts
+#EXTINF:0 type="stream" channelId="-1" name="TyC Sports Argentina HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/tycsports.png" catchup-days="30", TyC Sports Argentina HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/6859.ts
+#EXTINF:0 type="stream" channelId="-1" name="UFC TV Full HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/ufcfightpass.png" catchup-days="30", UFC TV Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/10192.ts
+#EXTINF:0 type="stream" channelId="-1" name="Win Sports + Full HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/winsportsplus.png" catchup-days="30", Win Sports + Full HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/6851.ts
+#EXTINF:0 type="stream" channelId="-1" name="Win Sports HD" group="Deportes" logo="http://logos.iptv.wtf/deportes/winsports.png" catchup-days="30", Win Sports HD
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/8287.ts
+#EXTINF:0 type="favorites" channelId="188" name="Sony" group="Entretenimiento", Sony
+http://live.iptv.wtf:80/live/dmihpyip/33ZV22hwai/5914.ts
